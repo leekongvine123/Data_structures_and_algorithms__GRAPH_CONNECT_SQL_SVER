@@ -1,0 +1,19 @@
+==================================TASK===============================
+Lê Công Vinh - SE172588(Leader)
+
+Trịnh Phước Duy - SE172674 :Convert 1 
+Trương Đỗ Duy Hả - SE172641i:Convert 2
+=====================================================================
+
+Trần Đình Khôi - SE172009: BFS       |
+Nguyễn Phương Nam - SE171520: DFS    | 
+Trần Minh Nguyên - SE160580: findpath|
+Lê Nguyễn Tiến Nhật - SE173012: prim |
+
+======================================================================
+Nguyễn Thiện Thành - SE172594    |
+                                 |
+Lê Công Vinh - SE172588          |
+→ Tổng hợp code để lấy ý tưởng, và viết lại toàn bộ code
+-> tạo và lấy dữ liệu từ database 
+-> Euler
